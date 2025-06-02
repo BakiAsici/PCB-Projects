@@ -1,2 +1,2 @@
 # PCB-Projects
-Curation of code, schematics, and PCBs of esp32 projects I have done
+Curation of code, schematics, and PCBs of projects I have done
