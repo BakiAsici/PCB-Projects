@@ -19,10 +19,8 @@ In2.Cu (3V3)
 <div  align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/B.Cu.png" alt="Bottom Layer" width="450"/></div>
 B.Cu (Back Copper)	
 
-Features
-ESP32-S3-WROOM-1 with USB Programming and Serial Monitor
 
-I²C-connected LIS2MDL magnetometer and BME280 environmental sensor
+I²C-connected LIS2MDL magnetometer and BME280 environmental sensors tested via simple I²C Code with custom drivers in the works.
 
 Designed and routed in KiCad 9
 Manufactured by JLCPCB
