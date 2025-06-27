@@ -1,5 +1,5 @@
 ESP32-S3-WROOM-1 V1.0 — Custom PCB
-A custom-designed ESP32-S3 board with onboard I²C sensors (LIS2MDL, BME280) and multiple GPIO breakout headers. Designed in KiCad, fabricated via JLCPCB.
+A custom-designed ESP32-S3 board with onboard I²C sensors (LIS2MDL, BME280) and multiple GPIO breakout headers. Designed in KiCad, fabricated via JLCPCB. Rev-1.0
 
 PCB 3D Renders
 <div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> </div>
