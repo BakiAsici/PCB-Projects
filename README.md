@@ -7,7 +7,7 @@
 
 <h3>Overview</h3>
 
-<ul>
+  <ul>
   <li>Revision: Rev 1.0</li>
   <li>Designed in: KiCad 9</li>
   <li>Fabricated by: JLCPCB</li>
@@ -23,6 +23,12 @@
   <li>GPIO header breakout</li>
   <li>USB Programming and Monitoring</li>
   <li>Wifi and Bluetooth Capabilities</li>
+</ul>
+
+<h4>Noted Improvements for next Rev</h4>
+<ul>
+  <li>Remove top mounting points to comply fully with the keepout area as recommended by the ESP32-S3-WROOM-1 datasheet</li>
+  <li>Test led (Marked D1) was wired using a strapping pin GPIO45 and had to be left of the board to ensure predictable behaviour. Rewire led to a new GPIO</li>
 </ul>
 
 <div >
