@@ -8,9 +8,9 @@
 <h3>Overview</h3>
 
 <ul>
-  <li>Revision: <strong>Rev 1.0</strong></li>
-  <li>Designed in: <strong>KiCad 9</strong></li>
-  <li>Fabricated by: <strong>JLCPCB</strong></li>
+  <li>Revision: Rev 1.0</li>
+  <li>Designed in: KiCad 9></li>
+  <li>Fabricated by: JLCPCB</li>
   <li>Assembly: Hand-soldered (Hotplate, Hot Air, Soldering Iron)</li>
 </ul>
 
