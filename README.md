@@ -5,7 +5,7 @@ PCB 3D Renders
 <div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> </div>
 <div  align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/B.Cu Render.png" alt="Back Render" width="450"/></div>
 Layer Stackup
-<div  align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu.png" alt="Top Layer" width="450"/></div>
+<div  align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.CU.png" alt="Top Layer" width="450"/></div>
 F.Cu (Front Copper)	
 <div  align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/In1.Cu(GND).png" alt="GND plane" width="450"/></div>
 In1.Cu (GND)	
