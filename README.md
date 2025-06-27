@@ -2,7 +2,7 @@ ESP32-S3-WROOM-1 V1.0 — Custom PCB
 A custom-designed ESP32-S3 board with onboard I²C sensors (LIS2MDL, BME280) and multiple GPIO breakout headers. Designed in KiCad, fabricated via JLCPCB.
 
 PCB 3D Renders
-<div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> <img src="PCB-Projects/assets/ESP32-S3-WROOM-1%20V1.0/B.Cu%20Render.png" alt="Back Render" width="450"/> </div>
+<div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> <img src="assets/ESP32-S3-WROOM-1%20V1.0/B.Cu%20Render.png" alt="Back Render" width="450"/> </div>
 Layer Stackup
 Layer	Image
 F.Cu (Front Copper)	
