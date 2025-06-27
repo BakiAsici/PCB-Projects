@@ -2,7 +2,7 @@
 
 <p>
   A custom-designed ESP32-S3 board featuring onboard I²C sensors, GPIO breakout headers, and full custom routing.  
-  Designed in <strong>KiCad 9</strong>, fabricated by <strong>JLCPCB</strong>, and hand-assembled using hot air, hotplate, and soldering iron.
+  Designed in KiCad 9, fabricated by JLCPCB, and hand-assembled using hot air, hotplate, and soldering iron.
 </p>
 
 <h3>Overview</h3>
