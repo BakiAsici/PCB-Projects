@@ -18,7 +18,7 @@
 
 <ul>
   <li>ESP32-S3-WROOM-1 Module</li>
-  <li>I²C-connected STMicroelectronics LIS2MDL magnetometer and Bosch Sensortec BME280 environmental sensor(Temperature(°C), Humidity(%), Pressure(Hpa))</li>
+  <li>I²C-connected STMicroelectronics LIS2MDL magnetometer and Bosch Sensortec BME280 environmental sensor(Temperature, Humidity, Pressure)</li>
   <li>Sensor libraries used to test functionality with custom drivers in the works</li>
   <li>GPIO header breakout</li>
   <li>USB Programming and Monitoring</li>
