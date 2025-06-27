@@ -1,10 +1,29 @@
-ESP32-S3-WROOM-1 V1.0 — Custom PCB
-A custom-designed ESP32-S3 board with onboard I²C sensors (LIS2MDL, BME280) and multiple GPIO breakout headers. Designed in KiCad, fabricated via JLCPCB. Rev-1.0
-Designed and routed in KiCad 9
-Manufactured by JLCPCB
-Hand soldered by me (Hotplate, Hot Air Rework Station, Soldering Iron)
-I²C-connected LIS2MDL magnetometer and BME280 environmental sensors tested via simple I²C Code with custom drivers in the works.
+<h2>ESP32-S3-WROOM-1 V1.0 — Custom PCB</h2>
 
+<p>
+  A custom-designed ESP32-S3 board featuring onboard I²C sensors, GPIO breakout headers, and full custom routing.  
+  Designed in <strong>KiCad 9</strong>, fabricated by <strong>JLCPCB</strong>, and hand-assembled using hot air, hotplate, and soldering iron.
+</p>
+
+<h3>Overview</h3>
+
+<ul>
+  <li>Revision: <strong>Rev 1.0</strong></li>
+  <li>Designed in: <strong>KiCad 9</strong></li>
+  <li>Fabricated by: <strong>JLCPCB</strong></li>
+  <li>Assembly: Hand-soldered (Hotplate, Hot Air, Soldering Iron)</li>
+</ul>
+
+<h3>Features</h3>
+
+<ul>
+  <li>ESP32-S3-WROOM-1 Module</li>
+  <li>I²C-connected <strong>LIS2MDL magnetometer</strong> and <strong>BME280 environmental sensor</strong></li>
+  <li>Custom I²C code for testing; full drivers in development</li>
+  <li>GPIO header breakout</li>
+</ul>
+
+<div >
 PCB 3D Renders
 <div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> </div>
 <div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/B.Cu Render.png" alt="Back Render" width="450"/></div>
