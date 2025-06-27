@@ -31,6 +31,7 @@
   <li>Test led (Marked D1) was wired using a strapping pin GPIO45 and had to be left of the board to ensure predictable behaviour. Rewire led to a new GPIO</li>
 </ul>
 
+<h3>Images</h3>
 <div >
 PCB 3D Renders
 <div align="center"> <img src="assests/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> </div>
