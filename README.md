@@ -25,10 +25,11 @@
   <li>Wifi and Bluetooth Capabilities</li>
 </ul>
 
-<h3>Noted Improvements for next Rev</h3>
+<h3>Noted Improvements for next revision</h3>
 <ul>
   <li>Remove top mounting points to increase Wifi and Bluetooth performance, as recommemnded by the ESP32-S3-WROOM-1 datasheet</li>
   <li>Test led (Marked D1) was wired using a strapping pin GPIO45 and had to be left of the board to ensure predictable behaviour. Rewire led to a new GPIO</li>
+  <li>Improve overall routing</li>
 </ul>
 
 <h3>Images</h3>
