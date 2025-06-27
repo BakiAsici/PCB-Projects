@@ -25,7 +25,7 @@
   <li>Wifi and Bluetooth Capabilities</li>
 </ul>
 
-<h4>Noted Improvements for next Rev</h4>
+<h3>Noted Improvements for next Rev</h3>
 <ul>
   <li>Remove top mounting points to comply fully with the keepout area as recommended by the ESP32-S3-WROOM-1 datasheet</li>
   <li>Test led (Marked D1) was wired using a strapping pin GPIO45 and had to be left of the board to ensure predictable behaviour. Rewire led to a new GPIO</li>
