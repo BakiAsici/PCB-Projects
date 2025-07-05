@@ -30,7 +30,7 @@
   <li>Remove top mounting points to increase Wifi and Bluetooth performance, as recommemnded by the ESP32-S3-WROOM-1 datasheet</li>
   <li>Test led (Marked D1) was wired using a strapping pin GPIO45 and had to be left of the board to ensure predictable behaviour. Rewire led to a new GPIO</li>
   <li>Improve overall routing</li>
-  <li>It should be noted that the current limiting resstor for the power indicator led was changed to 360ohms. I am unsure if it will work with the original 1Kohm</li>
+  <li>It should be noted that the current limiting resstor for the power indicator led was changed to 180ohms. I am unsure if it will work with the original 1Kohm</li>
 </ul>
 
 <h3>Images</h3>
