@@ -37,7 +37,7 @@
 <div >
 PCB 3D Renders
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/F.Cu Render.png" alt="Front Render" width="450"/> </div>
-<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.CURender.png" alt="Back Render" width="450"/></div>
+<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.Cu Render.png" alt="Back Render" width="450"/></div>
 
 PCB Photos
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/FrontReal.jpg" alt="Front" width="450"/> </div>
@@ -102,7 +102,7 @@ B.Cu (Back Copper)
 <div>
 PCB 3D Renders
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/F.CURender.png" alt="Front Render" width="450"/> </div>
-<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.Cu Render.png" alt="Back Render" width="450"/></div>
+<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.CURender.png" alt="Back Render" width="450"/></div>
 
 PCB Photos
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/FrontRealV1.1.jpg" alt="Front" width="450"/> </div>
