@@ -44,11 +44,11 @@ PCB Photos
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/BackReal.jpg" alt="Back" width="450"/></div>
 
 Layer Stackup
-<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/F.Cu.png" alt="Top Layer" width="450"/></div>
+<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/F.CU.png" alt="Top Layer" width="450"/></div>
 F.Cu (Front Copper)	
-<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/GND(In1.Cu).png" alt="GND plane" width="450"/></div>
+<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/In1.Cu(GND).png" alt="GND plane" width="450"/></div>
 In1.Cu (GND)	
-<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/3V3(In2.CU).png" alt="3V3 plane" width="450"/></div>
+<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/In2.Cu(3V3).png" alt="3V3 plane" width="450"/></div>
 In2.Cu (3V3)	
 <div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.0/B.Cu.png" alt="Bottom Layer" width="450"/></div>
 B.Cu (Back Copper)	
@@ -109,11 +109,11 @@ PCB Photos
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/BackRealV1.1.jpg" alt="Back" width="450"/></div>
 
 Layer Stackup
-<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/F.CU.png" alt="Top Layer" width="450"/></div>
-F.Cu (Front Copper)  
-<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/In1.Cu(GND).png" alt="GND plane" width="450"/></div>
-In1.Cu (GND)  
-<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/In2.Cu(3V3).png" alt="3V3 plane" width="450"/></div>
-In2.Cu (3V3)  
+<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/F.Cu.png" alt="Top Layer" width="450"/></div>
+F.Cu (Front Copper)	
+<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/GND(In1.Cu).png" alt="GND plane" width="450"/></div>
+In1.Cu (GND)	
+<div  align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/3V3(In2.CU).png" alt="3V3 plane" width="450"/></div>
+In2.Cu (3V3)	
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.Cu.png" alt="Bottom Layer" width="450"/></div>
 B.Cu (Back Copper)
