@@ -101,7 +101,7 @@ B.Cu (Back Copper)
 <h3>Images</h3>
 <div>
 PCB 3D Renders
-<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/F.Cu Render.png" alt="Front Render" width="450"/> </div>
+<div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/F.CURender.png" alt="Front Render" width="450"/> </div>
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.Cu Render.png" alt="Back Render" width="450"/></div>
 
 PCB Photos
