@@ -37,7 +37,7 @@
   <li>Followed ESP32-S3-WROOM-1 datasheet more closely regarding antenna clearance and placement</li>
   <li>Note: The current-limiting resistor for the power indicator LED was changed to 180 Ω. It is unclear if it will work reliably with the original 1 kΩ</li>
 </ul>
-
+<p>It should be noted that IO numbering on back side of pcb may not fully correspond to what the actual pins are. Check schematic.</p>
 <h3>Images</h3>
 <div>
 PCB 3D Renders
