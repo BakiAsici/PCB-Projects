@@ -1,4 +1,4 @@
-<h2>ESP32-S3-WROOM-1 V1.1 — Custom PCB</h2>
+<h2>ESP32-S3-WROOM-1 V1.1 — Custom PCB - Baki Asici</h2>
 
 <p>
   <strong>Updated from V1.0 with improved routing, GPIO reassignment, and antenna layout adjustments.</strong>
@@ -23,7 +23,6 @@
 <ul>
   <li>ESP32-S3-WROOM-1 Module</li>
   <li>I²C-connected STMicroelectronics LIS2MDL magnetometer and Bosch Sensortec BME280 environmental sensor (Temperature, Humidity, Pressure)</li>
-  <li>Sensor libraries used to test functionality, with custom drivers in the works</li>
   <li>GPIO header breakout</li>
   <li>USB Programming and Monitoring</li>
   <li>WiFi and Bluetooth Capabilities</li>
@@ -33,6 +32,7 @@
 <ul>
   <li>Removed top mounting points to improve WiFi and Bluetooth performance, as recommended by the ESP32-S3-WROOM-1 datasheet</li>
   <li>Test LED (marked D1) was originally wired to a strapping pin (GPIO45), which caused unpredictable behaviour. It has now been rewired to a different GPIO</li>
+  <li>Completed Custom Bosch BME280 I2C driver in the esp-idf framework. Reading from registers and applying Boch's calibration code</li>
   <li>Improved overall routing</li>
   <li>Followed ESP32-S3-WROOM-1 datasheet more closely regarding antenna clearance and placement</li>
   <li>Note: The current-limiting resistor for the power indicator LED was changed to 180 Ω. It is unclear if it will work reliably with the original 1 kΩ</li>
@@ -57,18 +57,6 @@ In1.Cu (GND)
 In2.Cu (3V3)	
 <div align="center"> <img src="assets/ESP32-S3-WROOM-1 V1.1/B.Cu.png" alt="Bottom Layer" width="450"/></div>
 B.Cu (Back Copper)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h2>ESP32-S3-WROOM-1 V1.0 — Custom PCB</h2>
